@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav472002
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in  python,C,C++,java,machine learning,AI,Javascript
 - 🌱 I’m currently learning web development
 - 📫 you can reach me @ gauravchakraborty472@gmail.com
